@@ -1,0 +1,55 @@
+﻿<Window x:Class="CaptchaInWpf.Windows.Registration"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CaptchaInWpf.Windows"
+        mc:Ignorable="d"
+        Title="Registration" Height="550" Width="800" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Label HorizontalAlignment="Center">Регистрация</Label>
+            <StackPanel Orientation="Horizontal">
+                <Label Width="120">Логин</Label>
+                <TextBox x:Name="TextBox_Login" Width="150"></TextBox>
+            </StackPanel>
+            <Rectangle Height="20"></Rectangle>
+            <StackPanel Orientation="Horizontal">
+                <Label Width="120">Пароль</Label>
+                <PasswordBox x:Name="TextBox_Password" Width="150"></PasswordBox>
+            </StackPanel>
+            <Rectangle Height="20"></Rectangle>
+            <StackPanel Orientation="Horizontal">
+                <Label Width="120">Роль</Label>
+                <ComboBox x:Name="ComboBox_Role" Width="150" DisplayMemberPath="RoleName">
+                </ComboBox>
+            </StackPanel>
+            <Rectangle Height="20"></Rectangle>
+            <StackPanel Orientation="Horizontal">
+                <Label Width="120">Повторите пароль</Label>
+                <PasswordBox x:Name="TextBox_RepeatPassword" Width="150"></PasswordBox>
+            </StackPanel>
+            <Rectangle Height="20"></Rectangle>
+            <StackPanel Orientation="Horizontal">
+                <Label Width="120">Имя</Label>
+                <TextBox x:Name="TextBox_Name" Width="150"></TextBox>
+            </StackPanel>
+            <Rectangle Height="20"></Rectangle>
+            <StackPanel Orientation="Horizontal">
+                <Label Width="75">Фамилия</Label>
+                <TextBox x:Name="TextBox_Surname" Width="150"></TextBox>
+            </StackPanel>
+            <Rectangle Height="20"></Rectangle>
+            <StackPanel Orientation="Horizontal">
+                <Label Width="120">Отчество</Label>
+                <TextBox x:Name="TextBox_Patronymic" Width="150"></TextBox>
+            </StackPanel>
+            <Rectangle Height="20"></Rectangle>
+            <StackPanel Orientation="Horizontal">
+                <Button x:Name="Button_BackToLogin" Width="150" Click="Button_BackToLogin_Click">Назад</Button>
+                <Rectangle Width="20"></Rectangle>
+                <Button x:Name="Button_Registration" Width="150" Click="Button_Registration_Click">Зарегистрироваться</Button>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

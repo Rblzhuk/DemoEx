@@ -1,0 +1,78 @@
+C:\Разное\РПК\Дисциплины\РЭУБД\Создание WPF-проекта\Презентационный материал\Капча\CaptchaInWpf\obj\Debug\CaptchaInWpf.csproj.AssemblyReference.cache
+C:\Разное\РПК\Дисциплины\РЭУБД\Создание WPF-проекта\Презентационный материал\Капча\CaptchaInWpf\obj\Debug\MainWindow.baml
+C:\Разное\РПК\Дисциплины\РЭУБД\Создание WPF-проекта\Презентационный материал\Капча\CaptchaInWpf\obj\Debug\MainWindow.g.cs
+C:\Разное\РПК\Дисциплины\РЭУБД\Создание WPF-проекта\Презентационный материал\Капча\CaptchaInWpf\obj\Debug\App.g.cs
+C:\Разное\РПК\Дисциплины\РЭУБД\Создание WPF-проекта\Презентационный материал\Капча\CaptchaInWpf\obj\Debug\CaptchaInWpf_MarkupCompile.cache
+C:\Разное\РПК\Дисциплины\РЭУБД\Создание WPF-проекта\Презентационный материал\Капча\CaptchaInWpf\obj\Debug\CaptchaInWpf.g.resources
+C:\Разное\РПК\Дисциплины\РЭУБД\Создание WPF-проекта\Презентационный материал\Капча\CaptchaInWpf\obj\Debug\CaptchaInWpf.Properties.Resources.resources
+C:\Разное\РПК\Дисциплины\РЭУБД\Создание WPF-проекта\Презентационный материал\Капча\CaptchaInWpf\obj\Debug\CaptchaInWpf.csproj.GenerateResource.cache
+C:\Разное\РПК\Дисциплины\РЭУБД\Создание WPF-проекта\Презентационный материал\Капча\CaptchaInWpf\obj\Debug\CaptchaInWpf.csproj.CoreCompileInputs.cache
+C:\Разное\РПК\Дисциплины\РЭУБД\Создание WPF-проекта\Презентационный материал\Капча\CaptchaInWpf\bin\Debug\CaptchaInWpf.exe.config
+C:\Разное\РПК\Дисциплины\РЭУБД\Создание WPF-проекта\Презентационный материал\Капча\CaptchaInWpf\bin\Debug\CaptchaInWpf.exe
+C:\Разное\РПК\Дисциплины\РЭУБД\Создание WPF-проекта\Презентационный материал\Капча\CaptchaInWpf\bin\Debug\CaptchaInWpf.pdb
+C:\Разное\РПК\Дисциплины\РЭУБД\Создание WPF-проекта\Презентационный материал\Капча\CaptchaInWpf\obj\Debug\CaptchaInWpf.exe
+C:\Разное\РПК\Дисциплины\РЭУБД\Создание WPF-проекта\Презентационный материал\Капча\CaptchaInWpf\obj\Debug\CaptchaInWpf.pdb
+D:\4is2\Шильников\Демоэкзамен (22.06.2022)\CaptchaInWpf\bin\Debug\CaptchaInWpf.exe.config
+D:\4is2\Шильников\Демоэкзамен (22.06.2022)\CaptchaInWpf\bin\Debug\CaptchaInWpf.exe
+D:\4is2\Шильников\Демоэкзамен (22.06.2022)\CaptchaInWpf\bin\Debug\CaptchaInWpf.pdb
+D:\4is2\Шильников\Демоэкзамен (22.06.2022)\CaptchaInWpf\obj\Debug\CaptchaInWpf.csprojAssemblyReference.cache
+D:\4is2\Шильников\Демоэкзамен (22.06.2022)\CaptchaInWpf\obj\Debug\MainWindow.baml
+D:\4is2\Шильников\Демоэкзамен (22.06.2022)\CaptchaInWpf\obj\Debug\MainWindow.g.cs
+D:\4is2\Шильников\Демоэкзамен (22.06.2022)\CaptchaInWpf\obj\Debug\App.g.cs
+D:\4is2\Шильников\Демоэкзамен (22.06.2022)\CaptchaInWpf\obj\Debug\CaptchaInWpf_MarkupCompile.cache
+D:\4is2\Шильников\Демоэкзамен (22.06.2022)\CaptchaInWpf\obj\Debug\CaptchaInWpf.g.resources
+D:\4is2\Шильников\Демоэкзамен (22.06.2022)\CaptchaInWpf\obj\Debug\CaptchaInWpf.Properties.Resources.resources
+D:\4is2\Шильников\Демоэкзамен (22.06.2022)\CaptchaInWpf\obj\Debug\CaptchaInWpf.csproj.GenerateResource.cache
+D:\4is2\Шильников\Демоэкзамен (22.06.2022)\CaptchaInWpf\obj\Debug\CaptchaInWpf.csproj.CoreCompileInputs.cache
+D:\4is2\Шильников\Демоэкзамен (22.06.2022)\CaptchaInWpf\obj\Debug\CaptchaInWpf.exe
+D:\4is2\Шильников\Демоэкзамен (22.06.2022)\CaptchaInWpf\obj\Debug\CaptchaInWpf.pdb
+D:\4IS2\Демоэкзамен (22.06.2022)\CaptchaInWpf\bin\Debug\CaptchaInWpf.exe.config
+D:\4IS2\Демоэкзамен (22.06.2022)\CaptchaInWpf\bin\Debug\CaptchaInWpf.exe
+D:\4IS2\Демоэкзамен (22.06.2022)\CaptchaInWpf\bin\Debug\CaptchaInWpf.pdb
+D:\4IS2\Демоэкзамен (22.06.2022)\CaptchaInWpf\bin\Debug\EntityFramework.dll
+D:\4IS2\Демоэкзамен (22.06.2022)\CaptchaInWpf\bin\Debug\EntityFramework.SqlServer.dll
+D:\4IS2\Демоэкзамен (22.06.2022)\CaptchaInWpf\bin\Debug\EntityFramework.xml
+D:\4IS2\Демоэкзамен (22.06.2022)\CaptchaInWpf\bin\Debug\EntityFramework.SqlServer.xml
+D:\4IS2\Демоэкзамен (22.06.2022)\CaptchaInWpf\obj\Debug\CaptchaInWpf.csprojAssemblyReference.cache
+D:\4IS2\Демоэкзамен (22.06.2022)\CaptchaInWpf\obj\Debug\MainWindow.baml
+D:\4IS2\Демоэкзамен (22.06.2022)\CaptchaInWpf\obj\Debug\MainWindow.g.cs
+D:\4IS2\Демоэкзамен (22.06.2022)\CaptchaInWpf\obj\Debug\Pages\Authorization.g.cs
+D:\4IS2\Демоэкзамен (22.06.2022)\CaptchaInWpf\obj\Debug\App.g.cs
+D:\4IS2\Демоэкзамен (22.06.2022)\CaptchaInWpf\obj\Debug\CaptchaInWpf_Content.g.cs
+D:\4IS2\Демоэкзамен (22.06.2022)\CaptchaInWpf\obj\Debug\CaptchaInWpf_MarkupCompile.cache
+D:\4IS2\Демоэкзамен (22.06.2022)\CaptchaInWpf\obj\Debug\CaptchaInWpf_MarkupCompile.lref
+D:\4IS2\Демоэкзамен (22.06.2022)\CaptchaInWpf\obj\Debug\Pages\Authorization.baml
+D:\4IS2\Демоэкзамен (22.06.2022)\CaptchaInWpf\obj\Debug\CaptchaInWpf.g.resources
+D:\4IS2\Демоэкзамен (22.06.2022)\CaptchaInWpf\obj\Debug\CaptchaInWpf.Properties.Resources.resources
+D:\4IS2\Демоэкзамен (22.06.2022)\CaptchaInWpf\obj\Debug\CaptchaInWpf.csproj.GenerateResource.cache
+D:\4IS2\Демоэкзамен (22.06.2022)\CaptchaInWpf\obj\Debug\CaptchaInWpf.csproj.CoreCompileInputs.cache
+D:\4IS2\Демоэкзамен (22.06.2022)\CaptchaInWpf\obj\Debug\CaptchaInWpf.csproj.CopyComplete
+D:\4IS2\Демоэкзамен (22.06.2022)\CaptchaInWpf\obj\Debug\CaptchaInWpf.exe
+D:\4IS2\Демоэкзамен (22.06.2022)\CaptchaInWpf\obj\Debug\CaptchaInWpf.pdb
+D:\4IS2\Демоэкзамен (22.06.2022)\CaptchaInWpf\obj\Debug\Pages\Registration.g.cs
+D:\4IS2\Демоэкзамен (22.06.2022)\CaptchaInWpf\obj\Debug\Pages\Registration.baml
+D:\4is2\Шильников\CaptchaInWpf\obj\Debug\CaptchaInWpf.csprojAssemblyReference.cache
+D:\4is2\Шильников\CaptchaInWpf\obj\Debug\App.g.cs
+D:\4is2\Шильников\CaptchaInWpf\obj\Debug\CaptchaInWpf_Content.g.cs
+D:\4is2\Шильников\CaptchaInWpf\obj\Debug\CaptchaInWpf_MarkupCompile.cache
+D:\4is2\Шильников\CaptchaInWpf\obj\Debug\CaptchaInWpf_MarkupCompile.lref
+D:\4is2\Шильников\CaptchaInWpf\obj\Debug\CaptchaInWpf.exe
+D:\4is2\Шильников\CaptchaInWpf\obj\Debug\CaptchaInWpf.pdb
+D:\4is2\Шильников\CaptchaInWpf\bin\Debug\CaptchaInWpf.exe.config
+D:\4is2\Шильников\CaptchaInWpf\bin\Debug\CaptchaInWpf.exe
+D:\4is2\Шильников\CaptchaInWpf\bin\Debug\CaptchaInWpf.pdb
+D:\4is2\Шильников\CaptchaInWpf\bin\Debug\EntityFramework.dll
+D:\4is2\Шильников\CaptchaInWpf\bin\Debug\EntityFramework.SqlServer.dll
+D:\4is2\Шильников\CaptchaInWpf\bin\Debug\EntityFramework.xml
+D:\4is2\Шильников\CaptchaInWpf\bin\Debug\EntityFramework.SqlServer.xml
+D:\4is2\Шильников\CaptchaInWpf\obj\Debug\CaptchaInWpf.g.resources
+D:\4is2\Шильников\CaptchaInWpf\obj\Debug\CaptchaInWpf.Properties.Resources.resources
+D:\4is2\Шильников\CaptchaInWpf\obj\Debug\CaptchaInWpf.csproj.GenerateResource.cache
+D:\4is2\Шильников\CaptchaInWpf\obj\Debug\CaptchaInWpf.csproj.CoreCompileInputs.cache
+D:\4is2\Шильников\CaptchaInWpf\obj\Debug\CaptchaInWpf.csproj.CopyComplete
+D:\4is2\Шильников\CaptchaInWpf\obj\Debug\Windows\MainWindow.baml
+D:\4is2\Шильников\CaptchaInWpf\obj\Debug\Windows\Authorization.g.cs
+D:\4is2\Шильников\CaptchaInWpf\obj\Debug\Windows\MainWindow.g.cs
+D:\4is2\Шильников\CaptchaInWpf\obj\Debug\Windows\Registration.g.cs
+D:\4is2\Шильников\CaptchaInWpf\obj\Debug\Windows\Authorization.baml
+D:\4is2\Шильников\CaptchaInWpf\obj\Debug\Windows\Registration.baml
