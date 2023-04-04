@@ -40,12 +40,16 @@ namespace CaptchaInWpf.Windows
                         if (TextBox_Capcha.Text != TextBox_UserCapcha.Text)
                         {
                             MessageBox.Show("Неверно введена капча");
+                            timer = new Timer(10000);
+                            timer.Elapsed += StopTimer;
+                            timer.Start();
+                            isTimerCouting = true;
                         }
                     }
                     else
                     {
                         //MessageBox.Show($"Здравствуйте {user.UserName}");
-                        MainWindow mainWindow = new MainWindow();
+                        MainWindow mainWindow = new MainWindow($"{user.UserSurname} {user.UserName} {user.UserPatronymic}");
                         mainWindow.Show();
                         this.Close();
                     }

@@ -7,13 +7,21 @@
 
     <Window.Resources>
         <DataTemplate x:Key="productListTemplate">
-            <StackPanel Orientation="Horizontal" Grid.Row="1" Grid.Column="2">
+            <StackPanel Orientation="Horizontal" Grid.Row="1" Grid.ColumnSpan="3">
                 <Rectangle Fill="Aquamarine" Width="256" Grid.Column="0"></Rectangle>
-                <StackPanel Grid.Column="1" Width="auto">
-                    <Label FontSize="28" Content="{Binding ProductName}"></Label>
-                    <Label Content="{Binding ProductDescription}"></Label>
-                    <Label Content="{Binding Manufacturer.Name}"></Label>
-                    <Label Content="{Binding ProductCost}"></Label>
+                <StackPanel Grid.Column="1" Width="400" HorizontalAlignment="Center">
+                    <Label FontSize="28">
+                        <TextBlock Text="{Binding ProductName}" TextWrapping="Wrap"></TextBlock>
+                    </Label>
+                    <Label>
+                        <TextBlock Text="{Binding ProductDescription}" TextWrapping="Wrap"></TextBlock>
+                    </Label>
+                    <Label>
+                        <TextBlock Text="{Binding Manufacturer.Name}" TextWrapping="Wrap"></TextBlock>
+                    </Label>
+                    <Label >
+                        <TextBlock Text="{Binding ProductCost}" TextWrapping="Wrap"></TextBlock>
+                    </Label>
                 </StackPanel>
                 <Label Content="{Binding ProductQuantityInStock}" Grid.Column="2" Width="100"></Label>
             </StackPanel>
@@ -21,15 +29,30 @@
     </Window.Resources>
     <Grid Background="{x:Null}" Visibility="Visible">
         <Grid.RowDefinitions>
-            <RowDefinition Height="100"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
             <RowDefinition Height="*"></RowDefinition>
             <RowDefinition  Height="100"></RowDefinition>
         </Grid.RowDefinitions>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="256"></ColumnDefinition>
             <ColumnDefinition Width="*"></ColumnDefinition>
-            <ColumnDefinition Width="100"></ColumnDefinition>
+            <ColumnDefinition Width="250"></ColumnDefinition>
         </Grid.ColumnDefinitions>
+        <StackPanel Grid.Row="0" Grid.Column="3">
+            <Label x:Name="Label_UserFio" Height="30">ФИО пользователя</Label>
+            <Button x:Name="ButtonExit">Выход</Button>
+        </StackPanel>
+        <StackPanel Grid.ColumnSpan="2">
+            <StackPanel Orientation="Horizontal">
+                <Button>Добавить</Button>
+                <Button>Удалить</Button>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label>Сортировать по </Label>
+                <ComboBox x:Name="ComboBox_manufacturerSort" SelectedIndex="0" Width="220" DisplayMemberPath="Name">
+                </ComboBox>
+            </StackPanel>
+        </StackPanel>
         <ListBox Grid.ColumnSpan="3" Grid.Row="1" x:Name="productList" ItemTemplate="{StaticResource productListTemplate}"
                  ScrollViewer.HorizontalScrollBarVisibility="Disabled">
             <ListBox.ItemsPanel>

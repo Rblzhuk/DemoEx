@@ -24,10 +24,21 @@ namespace CaptchaInWpf
         {
             InitializeComponent();
         }
+
+        public MainWindow(string userFio)
+        {
+            InitializeComponent();
+            Label_UserFio.Content = userFio;
+        }
         
         private void WindowOnload(object sender, RoutedEventArgs e)
         {
             productList.ItemsSource = SourceCore.MyBase.Product.ToList();
+            List<DataBase.Manufacturer> manufacturerSortList = new List<DataBase.Manufacturer>();
+            DataBase.Manufacturer allManufacturer = new DataBase.Manufacturer() { Name = "Все продукты" };
+            manufacturerSortList.Add(allManufacturer);
+            manufacturerSortList.AddRange(SourceCore.MyBase.Manufacturer.ToList());
+            ComboBox_manufacturerSort.ItemsSource = manufacturerSortList;
         }
     }
 }
